@@ -1,0 +1,22 @@
+td {
+    padding: 10px;
+    border-color:rgb(17, 208, 40) ;
+}
+table{
+    border-collapse: collapse;
+    border-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+th{
+    border-color: rgb(17, 208, 40);
+    background-color: rgb(23, 107, 4);
+    color: azure;
+    
+}
+h1{
+    text-align: center;
+    color: #022f0a;
+}
